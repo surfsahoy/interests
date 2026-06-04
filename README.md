@@ -5,10 +5,3 @@
 <p align="center"> <b>heathers,</b> little shop of horrors, grease, mamma mia, hatchetfield trilogy, hamilton, falsettos, west side story, maybe happy ending, chicago, cabaret, ride the cyclone </p>
 
 <p align="center"> <b>marvel,</b> the sandman, scott pilgrim, blue monday, xmen, dc, percy jackson, the hobbit, invader zim, the chronicles of narnia, gloomcookie, lenore the cute little dead girl  </p>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&pause=1000&color=40DDF7&background=FFF482&center=true&vCenter=true&width=570&height=60&lines=%E2%80%9CIf+we're+both+going+crazy...+Then+we'll+go+crazy+together%2C+right%3F%E2%80%9D;%E2%80%9CYeah.+Crazy+together...%E2%80%9D" alt="Typing SVG" /></a>
-</div>
-
-
-
